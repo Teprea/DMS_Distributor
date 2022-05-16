@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "HasLibraryLogicalName": true,
+    "InstanceCount": 2,
+    "LibraryId": "56f2ce3f-8353-4e72-88cf-8024aae0f28b",
+    "LibraryLogicalName": "cr719_testtabsdefaultcommandlibrary_81e6d",
+    "LibraryVersion": null,
+    "OriginalComponentDefinitionTemplateId": "f790e63d90ef497685018bbdf605c66d",
+    "RefusedSourceLastTimeSaved": "0001-01-01T00:00:00",
+    "SourceLastTimeSaved": "2022-05-16T04:23:28.071+00:00"
+  }
+]

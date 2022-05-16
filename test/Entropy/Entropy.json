@@ -1,36 +1,107 @@
 {
-  "ComponentIndexes": {},
+  "ComponentIndexes": {
+    "Component1": 1,
+    "Component1_1": 1,
+    "Component1_2": 1
+  },
   "ControlUniqueIds": {
     "App": 1,
+    "Component1": 5,
+    "Component1_1": 21,
+    "Component1_2": 22,
+    "Container1": 6,
+    "Container2": 11,
+    "Dropdown1": 14,
+    "Dropdown2": 13,
+    "Dropdown3": 15,
+    "Dropdown4": 16,
+    "Dropdown5": 17,
+    "Dropdown6": 18,
+    "Dropdown7": 20,
+    "Dropdown8": 19,
+    "Icon1": 8,
+    "Icon2": 10,
+    "Icon4": 12,
+    "Image3": 7,
     "Label1": 4,
-    "Screen1": 3
+    "Screen1": 3,
+    "TextInput1": 9
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "05/09/2022 09:21:19",
+  "HeaderLastSavedDateTimeUTC": "05/16/2022 05:12:04",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
-  "OrderComponentMetadata": {},
-  "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "LocalResourceFileNames": {
+    "whirlpool": "8e4f78d3-850a-4b4e-9e61-63aefde42ee0.png",
+    "whirlpool_1": "daf49d08-99b5-447e-8930-fd379077a6fa.png"
+  },
+  "LocalResourceRootPaths": {
+    "whirlpool": "https://docserverpwaprodsin.blob.core.windows.net/f97a7eb1-e76f-4a4c-be7d-80162f3ced33-1/resource/Assets0Images004455eca-a45f-4cbf-a196-eddf98fd0c31.png?sv=2017-04-17&sr=b&sig=bsJ7H2DRbeqO6zPESO3M95wuEkxY6uP%2FYOOE2P%2Bc32w%3D&spr=https&se=2022-05-17T05%3A25%3A13Z&sp=r",
+    "whirlpool_1": "https://docserverpwaprodsin.blob.core.windows.net/f97a7eb1-e76f-4a4c-be7d-80162f3ced33-1/resource/Assets0Images0fb1101db-fb6f-4401-8e96-116d912473bb.png?sv=2017-04-17&sr=b&sig=eufWkfCJ2rRz3W%2FoqBcOgG5hYyRQxGYSwvmgqz2GY9M%3D&spr=https&se=2022-05-17T05%3A25%3A13Z&sp=r"
+  },
+  "OrderComponentMetadata": {
+    "b6e629e2bbc0467b8e4c2f05896765d6": 0
+  },
+  "OrderComponentTemplate": {
+    "b6e629e2bbc0467b8e4c2f05896765d6": 0
+  },
+  "OrderDataSource": {
+    "DropDownSample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "label": 0
+    "dropdown": 5,
+    "groupContainer": 1,
+    "icon": 3,
+    "image": 2,
+    "label": 0,
+    "text": 4
   },
   "PublishOrderIndices": {
     "App": 0,
+    "Component1": 0,
+    "Component1_1": 0,
+    "Component1_2": 0,
+    "Container1": 0,
+    "Container2": 5,
+    "Dropdown1": 8,
+    "Dropdown2": 7,
+    "Dropdown3": 9,
+    "Dropdown4": 10,
+    "Dropdown5": 11,
+    "Dropdown6": 12,
+    "Dropdown7": 14,
+    "Dropdown8": 13,
+    "Icon1": 2,
+    "Icon2": 4,
+    "Icon4": 6,
+    "Image3": 1,
     "Label1": 0,
-    "Screen1": 0
+    "Screen1": 0,
+    "TextInput1": 3
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 2,
+    "Image-whirlpool": 0,
+    "Image-whirlpool_1": 1
+  },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.025789,
-    "ControlCount": {},
+    "AnalysisLoadTime": 0.0580118,
+    "ControlCount": {
+      "b6e629e2bbc0467b8e4c2f05896765d6": 3,
+      "dropdown": 8,
+      "groupContainer": 2,
+      "icon": 3,
+      "image": 1,
+      "label": 1,
+      "screen": 1,
+      "text": 1
+    },
+    "DeserializationLoadTime": 0.527829,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true

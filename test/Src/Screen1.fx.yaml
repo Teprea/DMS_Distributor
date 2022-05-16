@@ -9,3 +9,12 @@ Screen1 As screen:
         Y: =630
         ZIndex: =1
 
+    Component1_1 As Component1:
+        Width: =640
+        WidthCustom: =Screen1.Width
+        ZIndex: =2
+
+    Component1_2 As Component1:
+        Width: =640
+        ZIndex: =3
+
