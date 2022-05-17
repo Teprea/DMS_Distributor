@@ -6,16 +6,16 @@
     "AllowCustomization": true,
     "Description": "",
     "Name": "Component1",
-    "TemplateGuid": "b6e629e2bbc0467b8e4c2f05896765d6"
+    "TemplateGuid": "e32fabe35d14454da2527c0deae5085a"
   },
   "ComponentType": "CanvasComponent",
   "CustomGroupControlTemplateName": "",
   "CustomProperties": [
     {
       "Category": 0,
-      "DisplayName": "Custom property 1",
-      "Hidden": false,
-      "Name": "CustomProperty1",
+      "DisplayName": "SearchBarCustom",
+      "Hidden": true,
+      "Name": "SearchBarCustom",
       "PropertyDataTypeKey": "String",
       "Tooltip": "A custom property",
       "Type": "{\"Version\":\"1.324\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]}}"
@@ -37,6 +37,15 @@
       "PropertyDataTypeKey": "Number",
       "Tooltip": "A custom property",
       "Type": "{\"Version\":\"1.324\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"Number\",\"EnumString\":\"\",\"Type\":[]}}"
+    },
+    {
+      "Category": 0,
+      "DisplayName": "InitialsCustom",
+      "Hidden": false,
+      "Name": "InitialsCustom",
+      "PropertyDataTypeKey": "String",
+      "Tooltip": "A custom property",
+      "Type": "{\"Version\":\"1.324\",\"Type\":{\"Name\":\"Root\",\"Kind\":\"String\",\"EnumString\":\"\",\"Type\":[]}}"
     }
   ],
   "FirstParty": true,
@@ -47,8 +56,8 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "637882759995121934",
-  "Name": "b6e629e2bbc0467b8e4c2f05896765d6",
+  "LastModifiedTimestamp": "637883682183175927",
+  "Name": "e32fabe35d14454da2527c0deae5085a",
   "OverridableProperties": {},
   "SourceLibraryId": "56f2ce3f-8353-4e72-88cf-8024aae0f28b",
   "SourceLibraryLogicalName": "cr719_testtabsdefaultcommandlibrary_81e6d",

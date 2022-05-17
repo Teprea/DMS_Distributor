@@ -1,31 +1,5 @@
 Screen1 As screen:
 
-    Label1 As label:
-        Height: =70
-        Size: =21
-        Text: ="Text"
-        Width: =560
-        X: =80
-        Y: =630
-        ZIndex: =1
-
     Component1_1 As Component1:
         Width: =640
-        WidthCustom: =Screen1.Width
-        ZIndex: =2
-
-    Component1_3 As Component1:
-        Width: =640
-        ZIndex: =3
-
-    Component1_4 As Component1_2:
-        ZIndex: =4
-
-    Component1_5 As Component1:
-        Width: =640
-        ZIndex: =5
-
-    Component1_6 As Component1:
-        Width: =640
-        ZIndex: =6
 
